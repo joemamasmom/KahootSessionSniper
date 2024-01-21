@@ -3,8 +3,8 @@
 ## Images of Usage
 
 ![usage image 1](demo.jpg)
-![usage image 2](demo2.jpg)
-![usage image 3](demo3.jpg)
+![usage image 2](demo1.jpg)
+![usage image 3](demo2.jpg)
 
 ## Description
 
