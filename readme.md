@@ -1,5 +1,11 @@
 # KahootSessionSniper [![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/downloads/release)
 
+## Images of Usage
+
+![usage image 1](demo.jpg)
+![usage image 2](demo2.jpg)
+![usage image 3](demo3.jpg)
+
 ## Description
 
 KahootSessionSniper is a Python3 script designed to automate the process of joining a Kahoot game with multiple users simultaneously. It utilizes Selenium for web automation and threading for concurrent user joining.
